@@ -1,4 +1,4 @@
-# 🍪 Cookie Clicker
+# 🍪 Cookie Clicker 
 
 A fun and addictive Cookie Clicker game built with HTML, CSS, and JavaScript.  
 Click the cookie, earn points, trigger effects, and beat your high score!
